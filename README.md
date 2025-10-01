@@ -91,7 +91,7 @@ OpenCore版本: 1.04
 
 ![图片](https://im.baiblog.vip/i/2025/08/23/68a9c49de3fe0.png)
 
-![图片](https://im.baiblog.vip/i/2025/08/23/68a9cc29bb9ed.png])
+![图片](https://im.baiblog.vip/i/2025/08/23/68a9cc29bb9ed.png)
 
 ![图片](https://im.baiblog.vip/i/2025/08/23/68a9c49b2cee7.png)
 
