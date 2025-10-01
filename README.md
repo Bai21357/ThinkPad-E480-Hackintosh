@@ -87,13 +87,13 @@ OpenCore版本: 1.04
 
 ## 截图 
 
-![图片](https://youke1.picui.cn/s1/2025/08/08/689618e97c534.png)
+![图片]([http://im.baiblog.vip/i/2025/08/23/68a9c49be97cb.png])
 
-![图片](https://youke1.picui.cn/s1/2025/08/08/6896190aadcf5.png)
+![图片](http://im.baiblog.vip/i/2025/08/23/68a9c49de3fe0.png)
 
-![图片](https://youke1.picui.cn/s1/2025/08/08/689618baae13d.png)
+![图片](http://im.baiblog.vip/i/2025/08/23/68a9cc29bb9ed.png)
 
-![图片](https://youke1.picui.cn/s1/2025/08/08/689614d90af7e.png)
+![图片](http://im.baiblog.vip/i/2025/08/23/68a9c49b2cee7.png)
 
 ## 致谢
   github [灰尘墨言](https://github.com/huichenmoyan).<br>   
